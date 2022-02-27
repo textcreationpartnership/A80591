@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mite cast into the common treasury: or queries propounded (for all men to consider of) by him who desireth to advance the work of publick community. Robert Coster.</title>
+            <author>Coster, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80591</idno>
+            <idno type="STC">Wing C6367</idno>
+            <idno type="STC">Thomason E585_4</idno>
+            <idno type="STC">ESTC R206258</idno>
+            <idno type="EEBO-CITATION">99865431</idno>
+            <idno type="PROQUEST">99865431</idno>
+            <idno type="VID">117671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80591)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117671)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 90:E585[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mite cast into the common treasury: or queries propounded (for all men to consider of) by him who desireth to advance the work of publick community. Robert Coster.</title>
+                  <author>Coster, Robert.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 18 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="queries_concerning_public_welfare">
+            <pb n="1" facs="tcp:117671:1" rendition="simple:additions"/>
+            <head>A MITE <hi>CAST INTO THE</hi> Common Treaſury: OR, Queries propounded (for all men to conſider of) by him who deſireth to advance the work of publick Community. <date>
+                  <add>Decemb: 18. 1649</add>
+               </date>
+            </head>
+            <byline>ROBERT COSTER.</byline>
+            <p n="1">1. VVHether all men (by the grant of God) are not alike free, and all to enjoy the Earth with the fulneſs thereof alike, (<hi>Geneſes</hi> 1. from the 26. verſe, to the end of the Chapter, and the 9. Chap. from the 1. to the 18. verſe,) untill they ſell their Birth-right and Inheritance, for a proud idle life: the 2. of the <hi>Theſſalonians,</hi> and the 3. Chapter, from the 6. to the 13. verſe?</p>
+            <p n="2">2. Whether the Scriptures in many places, do not com<g ref="char:EOLhyphen"/>plain of mans Lording over his own kind, (as in <hi>Iſaiah</hi> 3.15.
+<pb n="2" facs="tcp:117671:2" rendition="simple:additions"/>
+               <hi>Luke</hi> 22.24.25. and 26. verſes. <hi>Mat.</hi> 23. chap. from the firſt to the 13. verſe,) Calling ſuch men for their nature and cru<g ref="char:EOLhyphen"/>elty, <hi>Lyons, Wolves, Foxes, Doggs, (Iſaiah</hi> 56.10 11. <hi>Ezek.</hi> 22.27. The men call ſome of them, Lords of Man<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors, Mi<g ref="char:EOLhyphen"/>niſters, and Lawyers?)</p>
+            <p n="3">3. Whether particular propriety, was not brought into the roome of publick Community, by Murther and Theft; and ac<g ref="char:EOLhyphen"/>cordingly have been upheld and maintained? In which Acts of cruelty, whether thoſe devouring Creatures before menti<g ref="char:EOLhyphen"/>oned, have not been chief, and whether ſuch naked ſhameleſs doings do not lie lurking under fig-leave Clothing, ſuch as Sabboth, Faſting, and Thankſgiving dayes, Doctrines, Formes, and Worſhips?</p>
+            <p n="4">4. Whether the Lords of Mannors, do not hold their Right and Title to the Commons, meerly from the Kings Will, (which Will proving a Burthen to the Nation, cauſed the King to looſe his head) and whether the ſtrongeſt point in their Law for the keeping up their Title, be not, <hi>Take him Jaylor?</hi>
+            </p>
+            <p n="5">5. Whether the Common People of <hi>England</hi> may not ſeize upon the Land, which is called after their own name, to wit, the Commons, for to dreſſe and improve it for their beſt advantage; for theſe Reaſons following, without paying fines, Quit-rents, Heriots, or ſwearing Fealty, (or any other cur<g ref="char:EOLhyphen"/>ſed and diabolicall payments whatſoever,) to any Tyrant ſoever?</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe the great Creator of all things, ordained that the earth with the fulneſs thereof ſhould be a common Trea<g ref="char:EOLhyphen"/>ſury of Livelihood for all, and that none ſhould Lord over his own kind; but that all ſhould love as Brethren, and ſo glo<g ref="char:EOLhyphen"/>rifie the Creator in the work of his hands.</p>
+            <p>
+               <hi>Secondly.</hi> Becauſe the Common People of <hi>England,</hi> have (theſe ſix or ſeven hundred years) been ſhut out from ha<g ref="char:EOLhyphen"/>ving any benefit of the Earth, except that which they have bought by their ſlaviſh payments. And all this by &amp; through the meanes of that illegitimate Lord and Maſter propriety, which was uſhered into the Creation, by thoſe two grand
+<pb n="3" facs="tcp:117671:2"/>diſturbers of our Peace, Murther and Theft; and therefore now it is high time for them (the Common People) to lay hold upon the waſt Land, that ſo they may receive ſome bene<g ref="char:EOLhyphen"/>fit freely, and may no longer live in a ſtarving condition: and this cannot with reaſon be denyed by the Gentry and Cler<g ref="char:EOLhyphen"/>gy, if they conſider what cruelty they have acted towards their fellow-Creatures theſe many years, who have a priviledg to the Earth equall with themſelves.</p>
+            <p>
+               <hi>Thirdly.</hi> Becauſe there is no Statute-Law in the Nation that doth hinder the common people from ſeizing upon their own Land, (but onely the mercinary wills of men,) and there<g ref="char:EOLhyphen"/>fore where there is no Law, there is no tranſgreſſion.</p>
+            <p>
+               <hi>Fourthly.</hi> Becauſe oppreſſion and cruelty doth bear ſo much ſway in the Nation, that poor men will be neceſſitated to make a breach of the Lawes of the Nation, if they are not ſuffered to labour the Earth for their maintenance.</p>
+            <p>Whether it would not prove an Inlet to Liberty and Free<g ref="char:EOLhyphen"/>dom, if poor men which want Imployment, and others which work for little wages, would go to digging and manuring the Commons, and moſt places of the Earth; conſidering effects that this would produce?</p>
+            <p>As 1. If men would do as aforeſaid, rather then to go with Cap in hand, and bended knee, to Gentlemen and Farmers, begging and intreating to work with them for 8 d. or 10 d. a day, which doth give them an occaſion to tyrannize over poor people, (which are their fellow-Creatures,) if poor men would not go in ſuch a ſlaviſh poſture, but do as aforeſaid. then rich Farmers would be weary of renting ſo much Land of the Lords of Mannors.</p>
+            <p n="2">2. If the Lords of Mannors, and other Gentlemen who co<g ref="char:EOLhyphen"/>vet after ſo much Land, could not let it out by percells, but muſt be conſtrained to keep it in their own hands, then would they want thoſe great baggs of money, (which do maintain pride, Idleneſs, and fulneſs of bread, which are carried into them by their Tenants, who go in as ſlaviſh a poſture as may be; namely, with Cap in hand, and bended knee, crouching and creeping from corner to corner, while his Lord (ra<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:117671:3"/>Tyrant) walkes up and down the Roome with his proud lookes, and with great ſwelling words, queſtions him about his holding.</p>
+            <p n="3">3. If the Lords of Mannors, and other Gentlemen, had not thoſe great bagges of mony brought into them. Then down would fall the Lordlineſs of their ſpirits, and then poor men might ſpeak to them; then there might be an acknowledging of one another to be fellow-Creatures.</p>
+            <p>For, what is the Reaſon that great Gentlemen covet after ſo much Land, is it not becauſe Farmers and others creep to them in a ſlaviſh manner, proffering them great ſummes of money for ſuch and ſuch percells of it, which doth give them an occaſion to tyrannize over their fellow Creatures which they call their Inferiours.</p>
+            <p>
+               <hi>Secondly.</hi> And what is the Reaſon that Farmers and others are ſo greedy to rent Land of the Lords of Mannors: Is it not becauſe they expect great gaines, and becauſe poor men are ſo fooliſh and ſlaviſh as to creep to them for imployment, although they will not give them wages enough to maintain them and their Families comfortably: All which do give them an occaſion to tyrannize over their fellow-Creatures, which they call their Inferiors.</p>
+            <p>All which conſidered, if poore men which want Imploy<g ref="char:EOLhyphen"/>ment and others which work for little wages, would go to dreſſe and improve the common and waſt Lands, whether it would not bring down the prizes of Land, which doth prin<g ref="char:EOLhyphen"/>cipally cauſe all manner of things to be deare?</p>
+            <p>Whether a Livelihood be not the right and propriety of every man; Looke in the firſt Query.</p>
+            <p>Whether this be not intruded into by thoſe which do im<g ref="char:EOLhyphen"/>poveriſh their fellow-Creatures by their buying and ſelling, and by their incloſing and appropriating the Earth, with the fruits thereof unto themſelves (purpoſely to uphold their Lordly ſpirits) as moſt men do; and ſo (in plain <hi>Engliſh</hi>) rob and ſteafe from their fellow Creatures, their proper right and Inheritance?</p>
+            <p>Whether thoſe Scriptures which ſay, Love thy Neigh<g ref="char:EOLhyphen"/>bour
+<pb n="5" facs="tcp:117671:3"/>as thy ſelfe; and do unto all men as you would they ſhould do unto you: and He that hath this Worlds goods, and ſeeth his Brother in want, and yet ſhutteth up the bowells of Compaſſion from him, how dwelleth the love of God in him? <hi>Matt.</hi> 7 12, <hi>John</hi> the firſt Chapt. the 3. verſe the 17.</p>
+            <p>And many ſuch Scriptures; Whether they are not leaſt ſpoken of, and leſſe practiſed among men now a dayes, al<g ref="char:EOLhyphen"/>though in them is contained the whole Law and Prophets?</p>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>The Nation is in ſuch a ſtate as this,</l>
+               <l>to honour rich men becauſe they are rich.</l>
+               <l>And poor men, becauſe poor moſt do them hate,</l>
+               <l>O, but this is a very curſed State.</l>
+               <l>But thoſe which act from love which is ſincere,</l>
+               <l>will honour truth where ever it doth appear.</l>
+               <l>And no reſpecting of perſons will be with ſuch,</l>
+               <l>but Tyranny they will abhorre in poor or rich.</l>
+               <l>And in this ſtate is he whoſe name is here,</l>
+               <l>your very loving friend, <hi>Robert Coſteer.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:117671:4"/>
+               <l>THough we have been ſad</l>
+               <l>yet now are glad</l>
+               <l>To ſee ſuch a joyfull time,</l>
+               <l>Our Miſſeries they,</l>
+               <l>Are paſſing away,</l>
+               <l>And truth beginneth too clime.</l>
+               <l>We ſhall</l>
+               <l>be freed from thrall</l>
+               <l>When Righteouſneſſe reigneth as King,</l>
+               <l>The Glory ſo bright</l>
+               <l>Shall darken the light</l>
+               <l>Which comes from the Man of ſinne.</l>
+            </lg>
+            <lg>
+               <l>Though men do us hate,</l>
+               <l>yet we in this ſtate</l>
+               <l>Do ſuffer joyfully,</l>
+               <l>Though ſtripes we receive,</l>
+               <l>We do them forgive,</l>
+               <l>Which acts ſuch cruelty.</l>
+               <l>For we</l>
+               <l>with them muſt agree,</l>
+               <l>Who ſeeketh our blood to ſpill,</l>
+               <l>And thus we may</l>
+               <l>Their cruelty ſlay,</l>
+               <l>Yea thus we ſhall envy kill.</l>
+            </lg>
+            <lg>
+               <l>The Poore long</l>
+               <l>have ſuffered wrong,</l>
+               <l>By the Gentry of this Nation,</l>
+               <l>The Clergy they</l>
+               <l>Have bore a great ſway</l>
+               <l>By their baſe inſultation.</l>
+               <l>But they ſhall</l>
+               <l>Lye levell with all</l>
+               <l>They have corrupted our Fountaine;</l>
+               <l>And then we ſhall ſee</l>
+               <l>Brave Community,</l>
+               <l>When Vallies lye levell with Mountaines.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:117671:4"/>
+               <l>Tyranny have</l>
+               <l>made many a ſlave</l>
+               <l>Within this Land of ours,</l>
+               <l>But he muſt packe</l>
+               <l>For his Power doth cracke</l>
+               <l>And the day it will be ours.</l>
+               <l>The Prieſts ball.</l>
+               <l>and after him call</l>
+               <l>Saying, you muſt with us abide,</l>
+               <l>For if you do goe</l>
+               <l>Then cometh our woe,</l>
+               <l>And we ſhall have no more Tythe.</l>
+            </lg>
+            <lg>
+               <l>The Gentry are</l>
+               <l>fil'd with the like care,</l>
+               <l>How they ſhall their Power maintaine,</l>
+               <l>For they know</l>
+               <l>If Tyranny go,</l>
+               <l>They muſt packe to France or to Spaine.</l>
+               <l>Therefore they</l>
+               <l>will this gallant ſtay,</l>
+               <l>And hide him under a backe Gowne,</l>
+               <l>Or elſe in a Coach</l>
+               <l>Will keepe him very cloſe,</l>
+               <l>Fearing he ſhould be found.</l>
+            </lg>
+            <lg>
+               <l>The time indeed</l>
+               <l>that this curſed ſeed</l>
+               <l>Doth as cloſely in all men;</l>
+               <l>But chiefly in thoſe</l>
+               <l>Who are Englands foes,</l>
+               <l>And we do very well know them.</l>
+               <l>But the light</l>
+               <l>that ſhineth ſo bright</l>
+               <l>Reveileth this wickedneſſe,</l>
+               <l>And it muſt go</l>
+               <l>I very well know</l>
+               <l>To a Land of forgetfullneſſe.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:117671:5"/>
+               <l>The time is nigh</l>
+               <l>that this myſtery</l>
+               <l>Shall be no more abſcure,</l>
+               <l>And then we ſhall ſee</l>
+               <l>Such community</l>
+               <l>As ſhall alwayes indure,</l>
+               <l>The Rich and Poore</l>
+               <l>ſhall love each other</l>
+               <l>Reſpecting of Perſons ſhall fall,</l>
+               <l>The Father alone</l>
+               <l>That ſits in his Throne</l>
+               <l>Shall honoured be of all.</l>
+            </lg>
+            <lg>
+               <l>The glorious State</l>
+               <l>which I do relate</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nſpeakable comfort ſhall bring,</l>
+               <l>The Corne will be greene</l>
+               <l>And the Flowers ſeene</l>
+               <l>Our ſtore-houſes they will be fill'd</l>
+               <l>The Birds will rejoyce</l>
+               <l>with a merry voice</l>
+               <l>All things ſhall yield ſweet increaſe</l>
+               <l>Then let us all ſing</l>
+               <l>And joy in our King,</l>
+               <l>Which cauſeth all ſorrowes to ceaſe.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
